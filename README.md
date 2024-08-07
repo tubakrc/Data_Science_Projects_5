@@ -1,4 +1,4 @@
-# Project Overview
+# PROJECT OVERVIEW
 
 **Project Goal:** Estimate obesity levels using multiclass classification machine learning algorithms such as Decision Tree, Knn, Logistic Regression and multiclass methods like "One-vs-One" (OvO) ve "One-vs-Rest" (OvR).
 
@@ -16,7 +16,7 @@ Daily Calorie Intake
 Meal Recommendations: Based on DCI, diet type and cuisine preferences.
 Alternative Meals: Provided using Content-Based Filtering with Nutritional Similarity algorithm.
 
-# Datasets
+# DATASETS
 
 **INFORMATION ABOUT WEIGHT WISE DATASETS**
 
@@ -27,13 +27,13 @@ The datasets used are ObesityDataSet_raw_and_data_sinthetic.csv and All_Diets.cs
 The dataset was obtained from Kaggle and was originally collected by the research team of Dr. Paulo Cortez and Prof. Ana Almeida from the University of Minho, Portugal.
 Citation : P. Cortez and A. Almeida. "Predicting Obesity Type Based on Genetic and LifeStyle Factors." In Proceedings of the 5th International Workshop on Knowledge Discovery in Databases. Porto, Portugal, 2005.
 
+* https://www.kaggle.com/code/mpwolke/obesity-levels-life-style
+
 **All Diets Dataset:**
 
 The file All_Diets.csv contains recipes from different diets and cuisines, all with the aim of providing healthy and nutritious meal options. Collaborator is The Devastator (Owner).
 
-•	https://www.kaggle.com/code/mpwolke/obesity-levels-life-style
-
-•	https://www.kaggle.com/datasets/thedevastator/healthy-diet-recipes-a-comprehensive-dataset/data
+* https://www.kaggle.com/datasets/thedevastator/healthy-diet-recipes-a-comprehensive-dataset/data
 
 **Columns of “ObesityDataSet_raw_and_data_sinthetic.csv” Dataset**
 
