@@ -7,11 +7,11 @@ Daily Living Habits: Eating patterns, physical activity levels, smoking, family 
 Demographic Features: Height, weight, age.
 
 **Calculated Variables:**
-BMI (Body Mass Index)
-BMR (Basal Metabolic Rate)
-Ideal Weight
-Daily Calorie Intake
-
+* BMI (Body Mass Index)
+* BMR (Basal Metabolic Rate)
+* Ideal Weight
+* Daily Calorie Intake
+  
 **Recommendations:**
 Meal Recommendations: Based on DCI, diet type and cuisine preferences.
 Alternative Meals: Provided using Content-Based Filtering with Nutritional Similarity algorithm.
