@@ -157,7 +157,7 @@ def main():
 
         # st.title("HOME")
         st.markdown("""
-            <h1 style="color:#c30452; ; text-align: center; padding-left:8px;">WEIGHT WISE</h1>
+            <h1 style="color:#c30452; ; text-align: center; padding-left:12px;">WEIGHT WISE</h1>
         """, unsafe_allow_html=True)
 
         # Resim dosyasını yükleme ve gösterme
