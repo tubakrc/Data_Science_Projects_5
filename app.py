@@ -1250,7 +1250,7 @@ def main():
         styles={
             "container": {"background-color": "#e36285", "padding": "45px"},  # Remove default padding
             "icon": {"color": "#d3e785", "font-size": "20px"},
-            "nav-link": {"color": "#d3e785", "font-size": "20px"},  # Adjust font size
+            "nav-link": {"color": "#d3e785", "font-size": "18px"},  # Adjust font size
             "nav-link-active": {"background-color": "#c30452", "color": "#fa8072"}  # Style for active link
         }
     )
