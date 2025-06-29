@@ -3,7 +3,7 @@ import os
 
 # Add the directory containing ObesityType_pipeline to the Python path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__name__),
-                                             'C:/Users/Tuba/PycharmProjects/pythonProject_Miuul/my_streamlit_frontend')))
+                                             'C:/Users/Tuba/PycharmProjects/pythonProject_Miuul/Weight_Wise_App')))
 
 
 import ObesityType_pipeline
