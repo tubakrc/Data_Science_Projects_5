@@ -1,6 +1,6 @@
 # PROJECT OVERVIEW
 
-**Project Goal:** Estimate obesity levels using multiclass classification machine learning algorithms such as Decision Tree, Knn, Logistic Regression and multiclass methods like "One-vs-One" (OvO) ve "One-vs-Rest" (OvR).
+**Project Goal:** Estimate obesity levels using multiclass classification algorithms such as Decision Tree, KNN, and Logistic Regression, along with multiclass strategies like One-vs-One (OvO) and One-vs-Rest (OvR).
 
 **Input Data:**
 Daily Living Habits: Eating patterns, physical activity levels, smoking, family history of overweight.
