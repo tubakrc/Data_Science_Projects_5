@@ -1120,7 +1120,7 @@ def main():
         with col1:
 
             st.markdown("""
-                <h2 style="color:#c30452;">Submit Your Question</h2>
+                <h2 style="color:#c30452;">❓Submit Your Question</h2>
             """, unsafe_allow_html=True)
 
             # Kullanıcıdan bilgi alma
