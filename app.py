@@ -1014,7 +1014,7 @@ def main():
         import google.generativeai as genai
         GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY') or "your-google-api-key"
         genai.configure(api_key=GOOGLE_API_KEY)
-        model = genai.GenerativeModel(model_name="gemini-1.5-flash-latest")
+        model = genai.GenerativeModel(model_name="gemini-2.5-pro")
 
         BASE_INSTRUCTION = (
             """You are Weight Wise Assistant, a helpful and knowledgeable AI assistant specialized in the Weight Wise Streamlit application.
@@ -1275,5 +1275,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
